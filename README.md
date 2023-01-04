@@ -32,3 +32,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+--
+2023/01/04 Udemy Study　Start
+--------
+疑問点
+インストール関連
+
+npx create-next-app@12.3.2 . --use-npm
+の@12.3.2はバージョン指定だと思ったが
+13のバージョンがインストールされた。
+
+npm i next@12.3.2
+でダウングレード実施
+
+--use-npmでnpm使用
+デフォルトはyarnか？
+---
+
